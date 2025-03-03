@@ -1,6 +1,4 @@
-Here's a **README.md** file for your Omnifood project:  
-
----
+ 
 
 ## **Omnifood - Healthy Meal Delivery Service**  
 
@@ -20,12 +18,12 @@ Omnifood is a fully responsive and modern website for a healthy meal delivery se
 - Clean and modern design  
 
 ### 🔗 **Live Demo**  
-omnifood-keshav.netlify.app 
+[Omnifood Live Site](https://omnifood-keshav.netlify.app/)  
 
 ### 📂 **How to Run Locally**  
 1. Clone the repository:  
    ```sh
-   git clone https://github.com/Keshav0018/Omnifood.git
+   git clone https://github.com/Keshav0018/Omnifood_.git
    ```
 2. Open `index.html` in a browser.  
 
@@ -34,4 +32,4 @@ Built while learning from Jonas Schmedtmann's Udemy course.
 
 ---
 
-Would you like any modifications? 🚀
+Let me know if you want any modifications! 🚀
